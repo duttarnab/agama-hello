@@ -4,6 +4,6 @@
         "description": "abc",
         "policies": {},
         "identity_source": {},
-        "schema": ""
+        "schema": "eyJqYW5zIjp7ImNvbW1vblR5cGVzIjp7fSwiZW50aXR5VHlwZXMiOnt9LCJhY3Rpb25zIjp7fX19"
     }
 }
